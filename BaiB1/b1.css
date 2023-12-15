@@ -1,0 +1,57 @@
+body {
+    box-sizing: border-box;
+    background-color: antiquewhite;
+}
+
+.left {
+    padding-right: 200px !important;
+    float: left;
+}
+
+.center {
+    float: left;
+    padding-top: 5%;
+
+}
+
+.name {
+    padding: 5px;
+}
+
+.email {
+    padding: 5px;
+}
+
+.phone {
+    padding: 5px;
+}
+
+.choose {
+    padding: 5px;
+}
+
+.pass {
+    padding: 5px;
+}
+
+.buttom-create {
+    padding: 5px;
+
+}
+
+.daugach {
+    width: 15px;
+    border: 1px solid black;
+
+}
+
+.fb {
+    padding: 20px 5px 5px 5px;
+
+
+}
+
+.tw {
+    padding: 5px;
+
+}
